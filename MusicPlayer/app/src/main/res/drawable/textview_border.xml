@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--通过shape设置背景图片，新建textview_border.xml放在drawable文件夹里-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle" >
+    <solid android:color="#ffffff" />
+    <stroke android:width="1dip" android:color="#4fa5d5"/>
+</shape>
